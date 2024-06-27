@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Card } from "./Component/Booklist";
+import { Card } from "./Booklist";
 import axios from "axios";
 
 export const Main = () => {
